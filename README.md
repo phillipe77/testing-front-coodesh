@@ -45,7 +45,7 @@ Desafio de testes de caixa preta do site Beta da Coodesh
 ## Site testado:
 
 > https://beta.coodesh.com/
-> 
+> Video do Projeto: https://www.loom.com/embed/7a7bfc6e09aa4f2f83e37e48bddffc68
 
 ## Pré-requisitos
 
