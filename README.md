@@ -62,14 +62,14 @@ Desafio de testes de caixa preta do site Beta da Coodesh
 No terminal, clone o projeto:
 
 ```
-git clone <https://github.com/phillipe77/testing-front-cypress>
+git clone <https://github.com/phillipe77/testing-front-coodesh>
 
 ```
 
 Acesse a pasta do projeto no terminal/cmd:
 
 ```
-cd testing-front-cypress
+cd testing-front-coodesh
 
 ```
 
