@@ -1,8 +1,9 @@
 <h1>QA Cypress Challenge for Coodesh</h1>
 
 <p align="center">
-<img alt="Fast-Track" src="[https://d585tldpucybw.cloudfront.net/sfimages/default-source/teststudio/telerik_teststudio_trialsection_illustration.png?sfvrsn=739b5781_1](https://d585tldpucybw.cloudfront.net/sfimages/default-source/teststudio/telerik_teststudio_trialsection_illustration.png?sfvrsn=739b5781_1)"/>
+  <img alt="Fast-Track" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/teststudio/telerik_teststudio_trialsection_illustration.png?sfvrsn=739b5781_1"/>
 </p>
+
 
 > Status do Projeto: :heavy_check_mark: (Concluído)
 > 
@@ -101,9 +102,9 @@ npm run test
 
 ## Desenvolvedores/Contribuidores :octocat:
 
-[<img src="](https://github.com/phillipe77)
+| [<img src="https://avatars.githubusercontent.com/u/63056300?v=4" width=115><br><sub>Phillipe Linhares</sub>](https://github.com/phillipe77)
+| :---: |
 
-[https://avatars.githubusercontent.com/u/63056300?v=4](https://avatars.githubusercontent.com/u/63056300?v=4)
 
 ## Como contribuir para o projeto 💪
 
